@@ -1,4 +1,4 @@
-USE [BuildAuto_new]
+USE [PracticeDB]
 GO
 /****** Object:  StoredProcedure [dbo].[SpParkingReportNew]    Script Date: 29-01-2025 17:58:35 ******/
 SET ANSI_NULLS ON
